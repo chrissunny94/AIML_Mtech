@@ -1,0 +1,10 @@
+information
+entropy
+markov chain
+periodicity
+random process
+stationarity
+power spectral density
+steepest descent procedure
+orthogonal basis
+IDFT/IDCT
