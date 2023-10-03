@@ -3,15 +3,15 @@
 Autocorrelation estimates the influence of all past observed values on the currently observed value. This differs from partial autocorrelation in which only a single past observed value is measured for influence on the currently observed value.
 
 
-- LAG , count of previous observations
+- **LAG** , count of previous observations
 
-- Positive Correlation , 
+- **Positive Correlation** , 
 
-- Negative Correlation ,
+- **Negative Correlation** ,
 
-- Confidence Interval ,
+- **Confidence Interval** ,
 
-- Confidence Level , 
+- **Confidence Level** , 
 
 
 
