@@ -22,7 +22,8 @@ Autocorrelation estimates the influence of all past observed values on the curre
 # Get Time Series Data
 import pandas as pd
 # Read in CSV data to Dataframe
-df = pd.read_csv('TSLA.csv')
+# https://gist.githubusercontent.com/alphazwest/da23fe97bfb6fcce75d937dd22c073fd/raw/b9345d9cbdf36ba3197b89944d183978f794c405/tsla.csv
+df = pd.read_csv('tsla.csv')
 # Drop all columns but 'Date' and 'Adj Close', reindex using 'Date'
 df = df[['Date', 'Adj Close']].set_index(['Date'])
 
