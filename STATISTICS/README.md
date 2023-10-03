@@ -9,3 +9,4 @@ MIND MAP
 ## ARTICLEScd
 
 1. [stationarity](stationarity.md)
+1. [autocorrelation](autocorrelation.md)
