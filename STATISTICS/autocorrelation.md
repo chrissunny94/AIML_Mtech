@@ -48,3 +48,8 @@ plt.show()
 ```
 
 ![](docs/autocorrelation-anatomy-python.jpg)
+
+------------------------------------------------
+### REFERENCES
+
+1. https://www.alpharithms.com/autocorrelation-time-series-python-432909/
