@@ -1,18 +1,18 @@
+# About
 
+**Auto Regression Moving Average** 
 
-Auto Regression Moving Average 
-
-usefull for 
+### usefull for 
 
 - time series
 
 
-Applied in 
+### Applied in 
 
 - econometrics
 - statistics 
 
-Combines
+## Combines
 
 - AutoRegrssive (AR) , relation between current value and past values
 
