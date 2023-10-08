@@ -1,4 +1,4 @@
-!()[docs/BPE.png]
+![](docs/BPE.png)
 
 
-!()[docs/BPE_parameterEstimation.png]
+![](docs/BPE_parameterEstimation.png)

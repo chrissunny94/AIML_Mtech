@@ -1,6 +1,6 @@
 In statistics and probability theory, the posterior is a fundamental concept, especially in Bayesian statistics. It represents the updated probability distribution of a parameter or a set of parameters after taking into account observed data and prior information. The posterior distribution is a key component in Bayesian inference, which is a framework for making statistical inferences by combining prior beliefs or knowledge with new data.
 
-!()[docs/posterior.png]
+![](docs/posterior.png)
 
 Here's a more detailed explanation of the posterior distribution and how it is derived:
 
@@ -20,7 +20,7 @@ Here's a more detailed explanation of the posterior distribution and how it is d
 
 The posterior distribution provides a more informed and updated view of the parameter values after incorporating the data. It combines your prior beliefs with the information contained in the observed data. The shape of the posterior distribution depends on both the prior distribution and the likelihood function.
 
-!()[docs/estimate_posterior.png]
+![](docs/estimate_posterior.png)
 
 Once you have the posterior distribution, you can use it for various purposes in Bayesian statistics, such as:
 
