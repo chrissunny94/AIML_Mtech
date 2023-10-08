@@ -58,6 +58,10 @@ Once you have estimated the parameters, you can use the estimated Gaussian distr
 
 !()[docs/GaussianCaseUnknownMeanandUnknownCovariance.png]
 
+!()[docs/GaussianCaseUnknownMeanandUnknownCovariance_1.png]
+
+
+If we are in an unsupervised learning scenario , if we have the sample mean and sample covariance , then we can compute the MLE
 
 
 ----------------------------------------------------------------------------------------------------
