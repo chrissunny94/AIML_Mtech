@@ -54,6 +54,11 @@ Maximum Likelihood Estimation provides parameter estimates that are statisticall
 Once you have estimated the parameters, you can use the estimated Gaussian distribution to make predictions, perform hypothesis tests, calculate confidence intervals, and more in various statistical analyses and applications.
 
 
+!()[docs/GaussianCaseUnknownMean.png]
+
+!()[docs/GaussianCaseUnknownMeanandUnknownCovariance.png]
+
+
 
 ----------------------------------------------------------------------------------------------------
 
