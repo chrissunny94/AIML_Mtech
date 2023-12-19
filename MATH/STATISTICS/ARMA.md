@@ -32,7 +32,7 @@ import seaborn as sns
 plt.rcParams['figure.figsize'] = (10, 5)
 plt.style.use('fivethirtyeight')
 
-candy = pd.read_csv('./dataset/candy_production.csv', index_col='date', parse_dates=True)
+candy = pd.read_csv('dataset/candy_production.csv', index_col='date', parse_dates=True)
 
 # Plot ant show the time series on axis ax
 fig, ax = plt.subplots();
@@ -47,10 +47,10 @@ fig, ax = plt.subplots();
 # Plot the train and test sets on the axis ax
 candy_train.plot(ax=ax);
 candy_test.plot(ax=ax);
-plt.savefig('../images/train_test.png')
+plt.savefig('.images/train_test.png')
 
 
-earthquake = pd.read_csv('./dataset/earthquakes.csv', index_col='date', parse_dates=True)
+earthquake = pd.read_csv('dataset/earthquakes.csv', index_col='date', parse_dates=True)
 earthquake.drop(['Year'], axis=1, inplace=True)
 
 earthquake
@@ -69,7 +69,7 @@ print(result[1])
 # Print critical values
 print(result[4]) 
 
-city = pd.read_csv('./dataset/city.csv', parse_dates=True, index_col='date')
+city = pd.read_csv('dataset/city.csv', parse_dates=True, index_col='date')
 
 result = adfuller(city['city_population'])
 
