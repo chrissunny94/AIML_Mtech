@@ -1,19 +1,41 @@
 ## PEAS , Performance measure, Environment, Actuator, Sensor. 
 
-![](docs/How-Many-Types-Of-Agents-Are-There-In-Artificial-Intelligence.jpg)
+![PEAS](docs/How-Many-Types-Of-Agents-Are-There-In-Artificial-Intelligence.jpg)
+
+## Types of agents
+
+![](docs/AI-Agents-Types.jpg)
+
+![](docs/artificial-intelligence-peas-2-320.webp)
 
 ## Random Search , 
 
 ![](docs/PSEUDO-code-for-DE-and-random-search-algorithm.png)
-## BFS
+
+## BFS (Breadth First Search)
 
 ![](docs/dfs.png)
 
-## DFS
+## DFS Best First Search
 
 ![](docs/bfs_vs_dfs.jpeg)
 ![](docs/Depth-First-Search.gif)
 ![](docs/bfs_dfs.gif)
+![](./docs/DFS_Example_Run.svg)
+
+
+## UCS Uniform Cost Search
+
+![](docs/0_2ys3NxzNLR6zfHdj.jpg)
+
+![](docs/uniform-cost-search-algorithm.png)
+
+![](docs/UCS.jpeg)
+![](docs/UCS_.jpeg)
+![](docs/UCS__.png)
+
+
+
 
 ## A*
 
@@ -33,21 +55,8 @@
 
 ![](docs/Constraint+satisfaction+problems+(CSPs).jpg)
 
-## Types of agents
 
-![](docs/AI-Agents-Types.jpg)
 
-![](docs/artificial-intelligence-peas-2-320.webp)
-
-## Ucs
-
-![](docs/0_2ys3NxzNLR6zfHdj.jpg)
-
-![](docs/uniform-cost-search-algorithm.png)
-
-## Best First Search
-
-![]
 
 ## Alpha Beta Pruning
 
