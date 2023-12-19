@@ -7,7 +7,7 @@
 
 ## Types of agents
 
-![](docs/AI-Agents-Types.jpg)
+![AI_agents](docs/AI-Agents-Types.jpg)
 
 ![](docs/artificial-intelligence-peas-2-320.webp)
 
